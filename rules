@@ -1,0 +1,5 @@
+# Rules for playing
+- You have to choose heads or tails for the toss and if you win you get to choose between batting or bowling else computer will get to choose from batting or bowling.
+- Once the match starts, you have to choose a number from 1 to 10 and the computer will also choose a number from 1 to 10 and the one who is batting will get their choices added to their score until the batsman is out.
+- The batsman can be outed by getting a number that is either succeeding the number of batsman or preceeding it.
+- Once the first batsman is out the second one gets to chase the first batsman's final score and the second batsman succeeds in doing so, they will win else they will lose.
